@@ -8,5 +8,5 @@ bash -c '
 
 curl -fsSL https://raw.githubusercontent.com/bradsec/dotfiles/main/.zshrc -o ~/.zshrc &&
 curl -fsSL https://raw.githubusercontent.com/bradsec/dotfiles/main/.bashrc -o ~/.bashrc
-`
+'
 ```
